@@ -43,7 +43,7 @@ function App() {
         </div>
       </div>
       <footer>
-        created by <a href="https://t.me/ubuntuous">@ubuntuos</a>
+        created by <a href="https://github.com/Muhammadrizo14/">@ubuntuos</a>
       </footer>
     </div>
   )
